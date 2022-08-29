@@ -13,6 +13,8 @@ int main(int argc, char **argv) {
 
   printf("Hello World, I am Salem Rumuri Nyacyesa.\n");
   printf("My Major is Biological Systems Engineering.\n");
+  printf("Hello World, I am Herve Mwunguzi.\n");
+  printf("I am a Masters student is Agricultural & Biological Systems Engineering.\n");
 
   return 0;
 }
